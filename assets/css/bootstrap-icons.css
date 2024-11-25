@@ -4927,6 +4927,17 @@
     content: "\f5ca";
 }
 
+.bi-arrow-right-short::before { content: "\f135"; }
+
+.bi-check-lg::before { content: "\f633"; }
+
+
+.bi-check-lg::before { content: "\f633"; }
+
+.bi-star-fill::before {
+     content: "\f586"; 
+    }
+
 .bi-textarea-t::before {
     content: "\f5cb";
 }
